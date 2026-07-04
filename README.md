@@ -93,7 +93,7 @@ I'm a B.Tech graduate in Electronics & Communication Engineering (Cloud & Edge C
 ## 🌱 Currently Learning
 
 - Spring Boot Microservices
-- Docker & Kubernetes
+- Docker, Kubernetes, CI/CD
 - System Design
 - Redis
 - Apache Kafka
@@ -104,9 +104,8 @@ I'm a B.Tech graduate in Electronics & Communication Engineering (Cloud & Edge C
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: https://linkedin.com/in/your-link
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio: https://your-portfolio.com
+- 💼 LinkedIn: https://www.linkedin.com/in/jahangeer-pasha/
+- 📧 Email: m.a.jahangeerpasha@gmail.com
 
 ---
 
