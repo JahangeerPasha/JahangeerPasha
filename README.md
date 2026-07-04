@@ -16,6 +16,8 @@ I'm a B.Tech graduate in Electronics & Communication Engineering (Cloud & Edge C
 - Screen sharing and real-time chat
 - Meeting history and participant management
 
+  🔗 **Repository:** https://github.com/JahangeerPasha/LiveMeet
+
 **Tech Stack:** React • Node.js • Express.js • MongoDB • Socket.IO • WebRTC
 
 ---
@@ -27,6 +29,8 @@ I'm a B.Tech graduate in Electronics & Communication Engineering (Cloud & Edge C
 - Live queue updates using Socket.IO
 - JWT Authentication
 - FIFO ticket management
+
+  🔗 **Repository:** https://github.com/JahangeerPasha/Queue
 
 **Tech Stack:** React • Node.js • Express.js • MongoDB • Socket.IO • JWT
 
@@ -62,6 +66,9 @@ I'm a B.Tech graduate in Electronics & Communication Engineering (Cloud & Edge C
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0052CC?style=for-the-badge)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-6A1B9A?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge)
 
 ### Cloud & Tools
 
@@ -82,23 +89,19 @@ I'm a B.Tech graduate in Electronics & Communication Engineering (Cloud & Edge C
 
 ---
 
-## 💻 Coding Profiles
-
-- 🟢 LeetCode
-- 🟤 CodeChef
-- 🔵 Codeforces
-
----
-
 ## 🌱 Currently Learning
 
 - Spring Boot Microservices
-- Docker, Kubernetes, CI/CD
+- Docker, Kubernetes & CI/CD
 - System Design
 - Redis
 - Apache Kafka
 - Advanced DSA
 - Agentic AI
+- MCP (Model Context Protocol)
+- AI Agents & Multi-Agent Systems
+- Advanced RAG
+- Vector Databases
 
 ---
 
