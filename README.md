@@ -4,7 +4,7 @@
 
 I'm a B.Tech graduate in Electronics & Communication Engineering (Cloud & Edge Computing) from KL University. I enjoy building scalable backend applications, AI-powered solutions, and solving Data Structures & Algorithms problems. I'm passionate about software engineering, backend development, and Generative AI.
 
----
+
 
 ## 🚀 Featured Projects
 
@@ -20,7 +20,7 @@ I'm a B.Tech graduate in Electronics & Communication Engineering (Cloud & Edge C
 
 **Tech Stack:** React • Node.js • Express.js • MongoDB • Socket.IO • WebRTC
 
----
+
 
 ### 👨‍🏫 Queue
 **Real-Time Mentorship Queue Management System**
@@ -34,7 +34,7 @@ I'm a B.Tech graduate in Electronics & Communication Engineering (Cloud & Edge C
 
 **Tech Stack:** React • Node.js • Express.js • MongoDB • Socket.IO • JWT
 
----
+
 
 ## 💻 Tech Stack
 
@@ -80,7 +80,7 @@ I'm a B.Tech graduate in Electronics & Communication Engineering (Cloud & Edge C
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
----
+
 
 ## 📜 Certifications
 
@@ -90,7 +90,6 @@ I'm a B.Tech graduate in Electronics & Communication Engineering (Cloud & Edge C
 
 🏆 Red Hat Enterprise Application Development Certification
 
----
 
 ## 🌱 Currently Learning
 
@@ -106,13 +105,13 @@ I'm a B.Tech graduate in Electronics & Communication Engineering (Cloud & Edge C
 - Advanced RAG
 - Vector Databases
 
----
+
 
 ## 📫 Connect with Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/jahangeer-pasha/
 - 📧 Email: m.a.jahangeerpasha@gmail.com
 
----
+
 
 ⭐ **"Building scalable software, exploring AI, and continuously learning every day."**
